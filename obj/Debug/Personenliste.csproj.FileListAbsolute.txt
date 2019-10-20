@@ -1,0 +1,30 @@
+C:\Users\vhoerzi16\source\repos\Personenliste\Personenliste\bin\Debug\Personenliste.exe.config
+C:\Users\vhoerzi16\source\repos\Personenliste\Personenliste\bin\Debug\Personenliste.exe
+C:\Users\vhoerzi16\source\repos\Personenliste\Personenliste\bin\Debug\Personenliste.pdb
+C:\Users\vhoerzi16\source\repos\Personenliste\Personenliste\obj\Debug\Personenliste.csprojAssemblyReference.cache
+C:\Users\vhoerzi16\source\repos\Personenliste\Personenliste\obj\Debug\MainWindow.g.cs
+C:\Users\vhoerzi16\source\repos\Personenliste\Personenliste\obj\Debug\App.g.cs
+C:\Users\vhoerzi16\source\repos\Personenliste\Personenliste\obj\Debug\Personenliste_MarkupCompile.cache
+C:\Users\vhoerzi16\source\repos\Personenliste\Personenliste\obj\Debug\Personenliste_MarkupCompile.lref
+C:\Users\vhoerzi16\source\repos\Personenliste\Personenliste\obj\Debug\MainWindow.baml
+C:\Users\vhoerzi16\source\repos\Personenliste\Personenliste\obj\Debug\Personenliste.g.resources
+C:\Users\vhoerzi16\source\repos\Personenliste\Personenliste\obj\Debug\Personenliste.Properties.Resources.resources
+C:\Users\vhoerzi16\source\repos\Personenliste\Personenliste\obj\Debug\Personenliste.csproj.GenerateResource.cache
+C:\Users\vhoerzi16\source\repos\Personenliste\Personenliste\obj\Debug\Personenliste.csproj.CoreCompileInputs.cache
+C:\Users\vhoerzi16\source\repos\Personenliste\Personenliste\obj\Debug\Personenliste.exe
+C:\Users\vhoerzi16\source\repos\Personenliste\Personenliste\obj\Debug\Personenliste.pdb
+D:\4. HTL\POS\week3\hue\Personenliste\Personenliste\bin\Debug\Personenliste.exe.config
+D:\4. HTL\POS\week3\hue\Personenliste\Personenliste\bin\Debug\Personenliste.exe
+D:\4. HTL\POS\week3\hue\Personenliste\Personenliste\bin\Debug\Personenliste.pdb
+D:\4. HTL\POS\week3\hue\Personenliste\Personenliste\obj\Debug\Personenliste.csprojAssemblyReference.cache
+D:\4. HTL\POS\week3\hue\Personenliste\Personenliste\obj\Debug\MainWindow.g.cs
+D:\4. HTL\POS\week3\hue\Personenliste\Personenliste\obj\Debug\App.g.cs
+D:\4. HTL\POS\week3\hue\Personenliste\Personenliste\obj\Debug\Personenliste_MarkupCompile.cache
+D:\4. HTL\POS\week3\hue\Personenliste\Personenliste\obj\Debug\Personenliste_MarkupCompile.lref
+D:\4. HTL\POS\week3\hue\Personenliste\Personenliste\obj\Debug\MainWindow.baml
+D:\4. HTL\POS\week3\hue\Personenliste\Personenliste\obj\Debug\Personenliste.g.resources
+D:\4. HTL\POS\week3\hue\Personenliste\Personenliste\obj\Debug\Personenliste.Properties.Resources.resources
+D:\4. HTL\POS\week3\hue\Personenliste\Personenliste\obj\Debug\Personenliste.csproj.GenerateResource.cache
+D:\4. HTL\POS\week3\hue\Personenliste\Personenliste\obj\Debug\Personenliste.csproj.CoreCompileInputs.cache
+D:\4. HTL\POS\week3\hue\Personenliste\Personenliste\obj\Debug\Personenliste.exe
+D:\4. HTL\POS\week3\hue\Personenliste\Personenliste\obj\Debug\Personenliste.pdb
